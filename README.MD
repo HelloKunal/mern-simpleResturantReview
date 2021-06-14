@@ -6,3 +6,11 @@ nodeman helps nodejs applications by autoamtically restarting by detecting chang
 dao data access object
 
 installed Insomia, used to manage API
+
+npx create-react-app frontend
+
+npm install bootstrap
+
+npm intall react-router-dom
+
+npm install axios
